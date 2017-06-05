@@ -2,3 +2,5 @@ shj branch test
 creating a new branch is quick & simple.
 creating a new branch is dev.
 git is free software
+
+creating another user.
